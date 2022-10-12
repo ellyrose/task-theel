@@ -7,7 +7,8 @@ export default [
     {
         id: 2,
         name: "Elly",
-        location: "usa"
+        location: "usa",
+        speed: 2
     },
     {
         id: 3,
